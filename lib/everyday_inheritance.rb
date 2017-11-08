@@ -1,0 +1,1 @@
+require 'everyday_inheritance/version'
